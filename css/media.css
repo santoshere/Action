@@ -1,0 +1,316 @@
+                                               
+                                               
+@media (max-width:767px)
+{
+    
+    .father .social  li
+    {
+        font-size: 15px;
+        padding-left: 5px
+    }
+    .father .social  ul
+    {
+        position: relative;
+        left: 253px;
+        bottom: 49px
+    }
+    
+    
+}
+@media (max-width:374px)
+{
+    .father .social  li {font-size: 15px; padding-left: 0;}
+    
+    .father .social  ul
+    {
+        position: relative;
+        left: 195px;
+        bottom: 49px
+    }
+    
+}
+
+@media (max-width:600px)
+{
+     .button-collapse .material-icons {position: absolute; right: 100px;} 
+    
+    .navbar-fixed .button-collapse .material-icons
+    {
+        position: absolute;
+        left: 0;
+        right: 0;
+    }
+    
+    .team .pic-team
+    {
+        padding-left: 20px
+    }
+    .team .pic-team .overlay
+    {
+        width: 93%;
+        position: absolute;
+        left: 20px;
+        bottom: 6px;
+    }
+    .team .pic-team .overlay .text
+    {
+        width: 100%;
+        position: relative;
+        left: 0
+    }
+}
+
+@media (max-width:992px){.brand-logo{margin-left: 25%}}
+
+@media (max-width:299px)
+{
+    body
+    {
+        display: none;   
+    }
+}
+
+@media (min-width:993px) and (max-width:1275px) 
+{
+    .nav-extended .right
+    {
+        position: relative;
+        right: 45%;
+        bottom: 15px 
+    }
+}
+
+@media (max-width:500px)
+{
+   .overlay .a-overlay 
+    {
+         text-align: center;
+         position: absolute;
+         top: 300px;
+         left: 9%;
+    }
+    .overlay .a-overlay h3
+    {
+        color: #FFF;
+        font-style: italic;
+        margin-bottom: 20px;
+        font-weight: bolder;
+        font-family: 'Exo 2', sans-serif;
+        font-size: 25px
+    }
+    .a-overlay .btn-one,.btn-two
+    {
+        background: rgba(2,2,2,0);
+        width: 140PX;
+        padding: 10px;
+        color: #FFFFFF;
+        margin: 2px;
+        border: 2px solid #FFF;
+        border-radius: 5px;
+        font-size: 13px;
+        font-weight: bolder;
+        font-family: 'Droid Sans', sans-serif;
+        transition: all 0.5s ease-in-out;
+        
+    }
+}
+@media (min-width:500px) and (max-width:950px)
+{
+    .overlay .a-overlay h3
+    {
+        color: #FFF;
+        font-style: italic;
+        margin-bottom: 20px;
+        font-weight: bolder;
+        font-family: 'Exo 2', sans-serif;
+        font-size: 30px
+    }
+    .a-overlay .btn-one,.btn-two
+    {
+        background: rgba(2,2,2,0);
+        width: 140PX;
+        padding: 10px;
+        color: #FFFFFF;
+        margin: 2px;
+        border: 2px solid #FFF;
+        border-radius: 5px;
+        font-size: 13px;
+        font-weight: bolder;
+        font-family: 'Droid Sans', sans-serif;
+        transition: all 0.5s ease-in-out;
+        
+    }
+}
+@media (min-width:400px) and (max-width:500px)
+{
+    
+    .team .pic-team .overlay
+    {
+        width: 95.5%;
+        position: absolute;
+        left: 20px;
+        bottom: 6px;
+    }
+    .team .pic-team .overlay .text
+    {
+        width: 100%;
+        position: relative;
+        left: 0
+    }
+    .team .pic-team .overlay h5
+    {
+        font-size: 24px; 
+        text-align: left;
+        padding: 10px;
+
+    }
+    .team .pic-team .overlay span
+    {
+        font-size: 18px;
+       text-align: left;
+        padding-right: 80%;
+        padding-left: 8px;
+        padding-top: 10px;
+
+    }
+    .team .pic-team .overlay ul
+    {
+         padding-right: 67%;
+         margin-top: 0px;
+        display: inline
+
+    }
+    .team .pic-team:hover .overlay
+    {
+        height: 99%;
+        transition: all 0.6s ease
+    }
+    .team .pic-team .overlay .text
+    {
+         background: rgba(30,144,255,0.4);
+        -webkit-clip-path: polygon(0 0, 100% 0, 84% 35%, 0 35%);
+         clip-path: polygon(0 0, 100% 0, 84% 35%, 0 35%);
+         height: 267%;
+         position: relative;
+         top: 70%; 
+    }
+}
+@media (min-width:500px) and (max-width:600px)  
+{
+    
+    .team .pic-team .overlay
+    {
+        width: 96%;
+        position: absolute;
+        left: 20px;
+        bottom: 6px;
+    }
+    .team .pic-team .overlay .text
+    {
+        width: 100%;
+        position: relative;
+        left: 0
+    }
+    .team .pic-team .overlay h5
+    {
+        font-size: 24px; 
+        text-align: left;
+        padding: 10px;
+
+    }
+    .team .pic-team .overlay span
+    {
+        font-size: 18px;
+       text-align: left;
+        padding-right: 82%;
+        padding-left: 8px;
+        padding-top: 10px;
+
+    }
+    .team .pic-team .overlay ul
+    {
+         padding-right: 71%;
+         margin-top: 0px;
+        display: inline
+
+    }
+    .team .pic-team:hover .overlay
+    {
+        height: 99%;
+        transition: all 0.6s ease
+    }
+    .team .pic-team .overlay .text
+    {
+         background: rgba(30,144,255,0.4);
+        -webkit-clip-path: polygon(0 0, 100% 0, 84% 35%, 0 35%);
+         clip-path: polygon(0 0, 100% 0, 84% 35%, 0 35%);
+         height: 267%;
+         position: relative;
+         top: 75%; 
+    }
+}
+@media (min-width:745px) and (max-width:992px)
+{
+   
+.team .pic-team .overlay .text
+    {
+         background: rgba(30,144,255,0.4);
+        -webkit-clip-path: polygon(0 0, 100% 0, 84% 35%, 0 35%);
+         clip-path: polygon(0 0, 100% 0, 84% 35%, 0 35%);
+         height: 267%;
+         position: relative;
+         top: 65%; 
+    }
+    .team .pic-team .overlay span
+    {
+        font-size: 18px;
+       text-align: left;
+        padding-right: 73%;
+        padding-left: 8px;
+        padding-top: 10px;
+
+    }
+    .team .pic-team .overlay ul
+    {
+         padding-right: 57%;
+         margin-top: 0px;
+        display: inline
+
+    }
+}
+@media (min-width:993px) and (max-width:1290px)
+{
+    .team .pic-team .overlay .text
+    {
+         background: rgba(30,144,255,0.4);
+        -webkit-clip-path: polygon(0 0, 100% 0, 84% 35%, 0 35%);
+         clip-path: polygon(0 0, 100% 0, 84% 35%, 0 35%);
+         height: 200%;
+         position: relative;
+         top: 45%; 
+    }
+    .team .pic-team .overlay span
+    {
+        font-size: 18px;
+       text-align: left;
+        padding-right: 73%;
+        padding-left: 8px;
+        padding-top: 10px;
+
+    }
+    .team .pic-team .overlay ul
+    {
+         padding-right: 22%;
+         margin-top: 0px;
+        display: inline
+
+    }
+     .team .pic-team .overlay h5
+    {
+        font-size: 20px; 
+        text-align: left;
+        padding: 10px;
+
+    }
+}
+                                            
