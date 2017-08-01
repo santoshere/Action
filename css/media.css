@@ -32,7 +32,7 @@
 
 @media (max-width:600px)
 {
-     .button-collapse .material-icons {position: absolute; right: 100px;} 
+     .button-collapse .material-icons {position: absolute; right: 85px;} 
     
     .navbar-fixed .button-collapse .material-icons
     {
